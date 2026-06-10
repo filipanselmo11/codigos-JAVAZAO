@@ -14,7 +14,7 @@ public class Desafio1 {
         //}
 
         for(int i = 0; i < 600; i++) {
-            if(i% 6 == 0) {
+            if(i % 6 == 0) {
                 listaSeis.add(i);
             }
         }

@@ -5,6 +5,8 @@ public class Desafio22 {
         ArrayList<Integer> numeros = new ArrayList<Integer>();
 
         for(int i = 0; i < 10; i++) {
+            //int numero = entrada.nextInt();
+            //numeros.add(numero)
             numeros.add(i);
         }
 
